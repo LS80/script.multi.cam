@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+        <setting label="32002" type="text" id="url1"/>
+        <setting label="32003" type="text" id="url2"/>
+        <setting label="32004" type="text" id="url3"/>
+        <setting label="32005" type="text" id="url4"/>
+    </category>
+</settings>
